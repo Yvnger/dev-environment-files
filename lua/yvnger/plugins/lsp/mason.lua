@@ -29,6 +29,9 @@ return {
 				"intelephense",
 				"emmet_ls",
 				"sqlls",
+				"phpactor",
+				"blade-ls",
+				"blade-formatter",
 			},
 		})
 
